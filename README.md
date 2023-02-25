@@ -7,8 +7,6 @@ The goal of pets is to provide a simple means for people to express
 their feelings about pets. At present, the package only contains one
 function: `cats()`.
 
-The goal of pets is to …
-
 ## Installation
 
 You can install the development version of pets from
